@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 20,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "email": "alice.johnson@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 22,
+      "major": "Mathematics",
+      "gpa": 3.6,
+      "email": "bob.smith@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Carol Davis",
+      "age": 21,
+      "major": "Physics",
+      "gpa": 3.9,
+      "email": "carol.davis@email.com"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "age": 23,
+      "major": "Engineering",
+      "gpa": 3.5,
+      "email": "david.brown@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Emma Wilson",
+      "age": 19,
+      "major": "Biology",
+      "gpa": 3.7,
+      "email": "emma.wilson@email.com"
+    }
+  ]
+}
